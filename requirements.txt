@@ -2,4 +2,4 @@ fastapi
 sqlalchemy
 uvicorn
 pytest
-pip install pydantic[email]
+pydantic[email]
