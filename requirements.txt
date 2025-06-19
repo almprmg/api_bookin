@@ -4,4 +4,4 @@ uvicorn
 pytest
 pydantic[email]
 passlib
-jwt
+PyJWT
